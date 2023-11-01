@@ -20,17 +20,23 @@ if (count < 1)
 
 
 string [] arrayOfText = new string[count];
-
-  for (int i = 0; i < count; i++) {
+string [] newarrayOfText = new string[count];
+  for (int i = 0, i2 = 0; i < count; i++) {
     Console.WriteLine("введите элемент массива " +i);
         arrayOfText[i] = Console.ReadLine();// Заполняем массив элементами, введёнными с клавиатуры
+        
+        if (arrayOfText[i].Length < 4)
+        {
+newarrayOfText[i2]=arrayOfText[i];
+i2++;
+        }
     }
 
 //Вывести массив
     Console.Write("[");
     for (int i = 0; i < count; i++)
     {
-        Console.Write(" " + arrayOfText[i]);
+        Console.Write(" " + newarrayOfText[i]);
     }
         Console.Write("]");
 
