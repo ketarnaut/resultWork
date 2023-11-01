@@ -1,10 +1,37 @@
 ﻿/*
 План:
-1. Запросить ввести массив
+1. Запросить количество элементом массива для ввода
 
-2. Посчитать длину массива
+2. Запросить массив
 
 3. Перебрать каждый элемент массива и добавить подходящие по условию элемены в новый массов
 
 */
-Console.WriteLine("Hello, World!");
+
+
+//Запросить сколько элементов массива будет вводить пользователь (count)
+Console.WriteLine("укажите, сколько элементов в массив будет введено");
+int count = Convert.ToInt32(Console.ReadLine());
+
+if (count < 1) 
+{
+    Console.WriteLine("введите число больше 0");    
+}
+
+
+string [] arrayOfText = new string[count];
+
+  for (int i = 0; i < count; i++) {
+    Console.WriteLine("введите элемент массива " +i);
+        arrayOfText[i] = Console.ReadLine();// Заполняем массив элементами, введёнными с клавиатуры
+    }
+
+//Вывести массив
+    Console.Write("[");
+    for (int i = 0; i < count; i++)
+    {
+        Console.Write(" " + arrayOfText[i]);
+    }
+        Console.Write("]");
+
+        Console.WriteLine(" --> ");

@@ -1,0 +1,15 @@
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/bin/Debug/net6.0/resultWork
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/bin/Debug/net6.0/resultWork.deps.json
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/bin/Debug/net6.0/resultWork.runtimeconfig.json
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/bin/Debug/net6.0/resultWork.dll
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/bin/Debug/net6.0/resultWork.pdb
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.csproj.AssemblyReference.cache
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.AssemblyInfoInputs.cache
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.AssemblyInfo.cs
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.csproj.CoreCompileInputs.cache
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.dll
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/refint/resultWork.dll
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.pdb
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/resultWork.genruntimeconfig.cache
+/Users/ekaterinaarnaut/Desktop/gb/finalwork/resultWork/obj/Debug/net6.0/ref/resultWork.dll
